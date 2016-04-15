@@ -22,8 +22,9 @@ $response_array = array(
     'response_type'=> 'in_channel',
     'text'=> $facts_list[$fact],
     'attachments'=> array(
-            'text'=> $facts_list[$fact]
+            array('text'=> ':pugsley:')
         )
 );
+
 
 echo json_encode($response_array);
