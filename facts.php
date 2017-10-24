@@ -58,6 +58,9 @@ $facts_list = array(
     
     'The Prairie Dog is actually part of the squirrel family. Early settlers named them after canines because their calls sounded like barking dogs.',
     
-    'At the end of the song "A Day in the Life," Paul McCartney recorded a high-pitched whistle that only dogs can hear! This was done specially for his pup, Martha'
+    'At the end of the song "A Day in the Life," Paul McCartney recorded a high-pitched whistle that only dogs can hear! This was done specially for his pup, Martha',
+    
+    'When dogs poop, they prefer to do it in alignment with the Earth\'s magnetic field.'
+
 );
 ?>
